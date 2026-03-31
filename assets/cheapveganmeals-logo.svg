@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Cheap Vegan Meals logo">
+  <rect width="220" height="220" rx="44" fill="#355c43"/>
+  <circle cx="110" cy="110" r="58" fill="#f7f2e7"/>
+  <path d="M110 68c18 0 33 14 33 32 0 25-33 52-33 52s-33-27-33-52c0-18 15-32 33-32Z" fill="#6da86f"/>
+  <path d="M107 78c10 15 14 29 9 49" fill="none" stroke="#355c43" stroke-width="5" stroke-linecap="round"/>
+  <path d="M87 104c8 1 17 6 24 15" fill="none" stroke="#355c43" stroke-width="4" stroke-linecap="round"/>
+</svg>
